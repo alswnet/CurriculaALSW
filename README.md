@@ -1,8 +1,8 @@
-# Material de Curitula de ALSW
+# Material de Curricula de ALSW
 
-Esta material sera usado para ayudara a la educacion de El Salvador
+Esta material sera usado para ayudará a la educación de El Salvador
 
-## Finaliad
+## Finalidad
 
-* Ser facil de usar
+* Ser fácil de usar
 * Compartir 
